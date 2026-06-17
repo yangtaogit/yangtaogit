@@ -2,7 +2,7 @@
 
 # Hi, I'm Tao 👋
 
-<img src="assets/occasional_pulse_signal.svg" alt="occasional pulse signal" />
+<img src="assets/occasional_pulse_signal.svg" alt="occasional pulse signal" width="400" height="200" />
 
 
 </div>
@@ -21,7 +21,6 @@
 
 </div>
 
----
 
 ## GitHub Stats
 
@@ -32,5 +31,4 @@
 
 </div>
 
----
 
