@@ -2,24 +2,11 @@
 
 # Hi, I'm Tao 👋
 
-**Detector Physicist · Instrumentation · Data Analysis**
+<img src="assets/occasional_pulse_signal.svg" alt="occasional pulse signal" />
 
-[![GitHub followers](https://img.shields.io/github/followers/yangtaogit?label=Follow&style=social)](https://github.com/yangtaogit)
 
 </div>
 
----
-
-## About Me
-
-I'm a researcher working on **detector development and instrumentation**, focused on pushing the boundaries of particle/radiation detection technology. My work spans the full pipeline — from hardware characterization to high-performance data analysis and simulation.
-
-- Detector R&D: design, fabrication, and performance evaluation
-- Fast data acquisition and real-time signal processing
-- Monte Carlo simulation and detector modeling
-- High-performance computing for large-scale physics datasets
-
----
 
 ## Tech Stack
 
@@ -47,12 +34,3 @@ I'm a researcher working on **detector development and instrumentation**, focuse
 
 ---
 
-## Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-yangtaogit-181717?style=flat-square&logo=github)](https://github.com/yangtaogit)
-
-</div>
-
-<div align="right"><sub>Last updated: 2026</sub></div>
