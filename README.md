@@ -8,7 +8,8 @@
 </div>
 
 
-## Tech Stack
+
+## GitHub Stats
 
 <div align="center">
 
@@ -21,8 +22,6 @@
 
 </div>
 
-
-## GitHub Stats
 
 <div align="center">
 
