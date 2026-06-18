@@ -2,14 +2,15 @@
 
 # Hi, I'm Tao 👋
 
-<img src="assets/occasional_pulse_signal.svg" alt="occasional pulse signal" width="400" height="200" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/occasional_pulse_signal_dark.svg">
+  <img src="assets/occasional_pulse_signal.svg" alt="occasional pulse signal" width="400" height="200" />
+</picture>
 
 
 </div>
 
 
-
-## GitHub Stats
 
 <div align="center">
 
