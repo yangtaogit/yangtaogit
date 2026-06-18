@@ -27,8 +27,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yangtaogit&show_icons=true&rank_icon=default&theme=github_dark&hide_border=true&count_private=true">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yangtaogit&show_icons=true&rank_icon=default&theme=default&hide_border=true&count_private=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=yangtaogit&show_icons=true&rank_icon=default&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yangtaogit&show_icons=true&rank_icon=default&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=yangtaogit&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
