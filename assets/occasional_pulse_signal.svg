@@ -5,8 +5,8 @@
     <path d="M 253.0 561.5 L 218.0 558.5 L 200.0 549.5 L 184.5 534.0 L 172.5 505.0 L 170.5 466.0 L 177.5 401.0 L 193.5 298.0 L 198.5 271.0 L 203.5 257.0 L 147.0 255.5 L 128.0 260.5 L 120.0 265.5 L 110.5 280.0 L 109.5 287.0 L 110.5 309.0 L 114.5 329.0 L 83.0 338.5 L 71.5 311.0 L 66.5 289.0 L 66.5 257.0 L 70.5 240.0 L 79.5 221.0 L 97.0 200.5 L 117.0 187.5 L 142.0 179.5 L 168.0 177.5 L 250.0 181.5 L 353.0 181.5 L 390.0 177.5 L 395.5 196.0 L 396.5 219.0 L 390.5 237.0 L 379.0 248.5 L 354.0 258.5 L 253.5 260.0 L 237.5 399.0 L 237.5 459.0 L 239.5 467.0 L 241.5 473.0 L 248.0 480.5 L 253.0 482.5 L 269.0 482.5 L 289.0 474.5 L 306.0 461.5 L 321.0 464.5 L 325.5 490.0 L 318.5 518.0 L 299.0 542.5 L 275.0 556.5 L 253.0 561.5 Z" fill="#000"/>
     <g>
       <animateTransform attributeName="transform" type="translate" values="0 0;0 2;0 0;0 -2;0 0" dur="7.2s" repeatCount="indefinite"/>
-      <ellipse cx="218" cy="257" rx="33" ry="40" fill="transparent" stroke="#000" stroke-width="6"/>
-      <ellipse cx="279" cy="259" rx="33" ry="40" fill="transparent" stroke="#000" stroke-width="6"/>
+      <ellipse cx="218" cy="257" rx="33" ry="40" fill="#fff" stroke="#000" stroke-width="6"/>
+      <ellipse cx="279" cy="259" rx="33" ry="40" fill="#fff" stroke="#000" stroke-width="6"/>
       <circle cx="236" cy="265" r="20" fill="#000"/>
       <circle cx="297" cy="267" r="20" fill="#000"/>
       <circle cx="243" cy="260" r="5" fill="#fff"/>
